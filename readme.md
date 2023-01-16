@@ -14,6 +14,7 @@
 
 ## Technical Knowledge and Development Guide
 
+- Filecoin main concepts: https://www.youtube.com/watch?v=Sz2OQc2WOdA
 - FVM Developer Forum :  https://fvm-forum.filecoin.io
 - Guide to FVM/FEVM :  https://fvm-forum.filecoin.io/t/hack-fevm-specific-resources/101
 - hack FEVM workshops : https://ethglobal.com/talks?events=hackfevm
