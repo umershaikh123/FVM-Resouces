@@ -18,6 +18,7 @@
 - Guide to FVM/FEVM :  https://fvm-forum.filecoin.io/t/hack-fevm-specific-resources/101
 - hack FEVM workshops : https://ethglobal.com/talks?events=hackfevm
 - Protoschool : https://proto.school/tutorials
+- Data Storage and Retrieval on Filecoin : https://filecoin.io/blog/posts/how-storage-and-retrieval-deals-work-on-filecoin/
 
 Docs :
 - Filecoin specs : https://spec.filecoin.io/intro/filecoin_vm/ 
