@@ -32,14 +32,21 @@ Docs :
 - Developing on Filecoin (Video) https://www.youtube.com/watch?v=aGCpq0Xf-w8
 - Developing on Filecoin (repository) : https://gist.github.com/pooja/5749a439754d12df7cd8744fd6c358a1
 
-Front-end integration tools :
+### Front-end integration tools :
 - NFT.storage : https://nft.storage
 - Web3.storage : https://web3.storage
 - Estuary : https://docs.estuary.tech
 - Lighthouse : https://docs.lighthouse.storage/lighthouse-1/
-- powerGate : https://docs.textile.io/powergate/
 
-smart contract library:
+ PowerGate 
+- Docs : https://docs.textile.io/powergate/
+- js client and npm package : https://textileio.github.io/js-powergate-client/
+
+Lotus 
+- js api Docs : https://filecoin-shipyard.github.io/js-lotus-client/
+- js client : https://github.com/filecoin-shipyard/js-lotus-client
+
+### smart contract library:
 - zondax api : https://docs.zondax.ch/fevm/filecoin-solidity
 
 ## FVM Ideas 
