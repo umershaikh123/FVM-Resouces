@@ -27,6 +27,16 @@ Docs :
 - Lotus Docs : https://lotus.filecoin.io/lotus/get-started/what-is-lotus/
 
 
+## Developing on Filecoin 
+
+- Developing on Filecoin (Video) https://www.youtube.com/watch?v=aGCpq0Xf-w8
+- Developing on Filecoin (repository) : https://gist.github.com/pooja/5749a439754d12df7cd8744fd6c358a1
+
+Tools :
+- NFT.storage : https://nft.storage
+- Web3.storage : https://web3.storage
+- Estuary : https://docs.estuary.tech
+
 
 ## FVM Ideas 
 - startups/ideas : https://rfs.fvm.dev
