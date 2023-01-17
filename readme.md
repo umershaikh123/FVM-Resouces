@@ -36,10 +36,11 @@ Front-end integration tools :
 - NFT.storage : https://nft.storage
 - Web3.storage : https://web3.storage
 - Estuary : https://docs.estuary.tech
-- Lighthouse https://docs.lighthouse.storage/lighthouse-1/
+- Lighthouse : https://docs.lighthouse.storage/lighthouse-1/
+- powerGate : https://docs.textile.io/powergate/
 
 smart contract library:
--zondax api : https://docs.zondax.ch/fevm/filecoin-solidity
+- zondax api : https://docs.zondax.ch/fevm/filecoin-solidity
 
 ## FVM Ideas 
 - startups/ideas : https://rfs.fvm.dev
