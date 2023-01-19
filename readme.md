@@ -43,6 +43,7 @@ Docs :
 - js client and npm package : https://textileio.github.io/js-powergate-client/
 
 Lotus 
+- Lotus Hyperspace Docker image: https://hub.docker.com/layers/glif/lotus/hyperspace-arm/images/sha256-20ab0ad5100435c1f76940ac88d00ff8710d1ae5ec890974b23fa5bf5a337363?context=explore
 - js api Docs : https://filecoin-shipyard.github.io/js-lotus-client/
 - js client : https://github.com/filecoin-shipyard/js-lotus-client
 
